@@ -10,7 +10,7 @@
                 {
                     "name": "terraform",
                     "version": "0.1.0",
-                    "os": "darwin",
+                    "os": "darwinaa",
                     "arch": "amd64",
                     "filename": "terraform_0.1.0_darwin_amd64.zip",
                     "url": "https://releases.hashicorp.com/terraform/0.1.0/terraform_0.1.0_darwin_amd64.zip"
