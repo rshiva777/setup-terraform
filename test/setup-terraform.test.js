@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: MPL-2.0
  */
 
+
 // Mock external modules by default
 jest.mock('@actions/core');
 jest.mock('@actions/tool-cache');
